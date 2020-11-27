@@ -1,0 +1,17 @@
+E:\Projects\C Sharp Training\NumberWizardv4\NumberWizardv4\bin\Release\netcoreapp3.1\NumberWizardv4.exe
+E:\Projects\C Sharp Training\NumberWizardv4\NumberWizardv4\bin\Release\netcoreapp3.1\NumberWizardv4.deps.json
+E:\Projects\C Sharp Training\NumberWizardv4\NumberWizardv4\bin\Release\netcoreapp3.1\NumberWizardv4.runtimeconfig.json
+E:\Projects\C Sharp Training\NumberWizardv4\NumberWizardv4\bin\Release\netcoreapp3.1\NumberWizardv4.runtimeconfig.dev.json
+E:\Projects\C Sharp Training\NumberWizardv4\NumberWizardv4\bin\Release\netcoreapp3.1\NumberWizardv4.dll
+E:\Projects\C Sharp Training\NumberWizardv4\NumberWizardv4\bin\Release\netcoreapp3.1\NumberWizardv4.pdb
+E:\Projects\C Sharp Training\NumberWizardv4\NumberWizardv4\obj\Release\netcoreapp3.1\NumberWizardv4.csprojAssemblyReference.cache
+E:\Projects\C Sharp Training\NumberWizardv4\NumberWizardv4\obj\Release\netcoreapp3.1\NumberWizardv4.AssemblyInfoInputs.cache
+E:\Projects\C Sharp Training\NumberWizardv4\NumberWizardv4\obj\Release\netcoreapp3.1\NumberWizardv4.AssemblyInfo.cs
+E:\Projects\C Sharp Training\NumberWizardv4\NumberWizardv4\obj\Release\netcoreapp3.1\NumberWizardv4.csproj.CoreCompileInputs.cache
+E:\Projects\C Sharp Training\NumberWizardv4\NumberWizardv4\obj\Release\netcoreapp3.1\NumberWizardv4.dll
+E:\Projects\C Sharp Training\NumberWizardv4\NumberWizardv4\obj\Release\netcoreapp3.1\NumberWizardv4.pdb
+E:\Projects\C Sharp Training\NumberWizardv4\NumberWizardv4\obj\Release\netcoreapp3.1\NumberWizardv4.genruntimeconfig.cache
+E:\Projects\C Sharp Training\NumberWizardv4\NumberWizardv4\bin\Release\netcoreapp3.1\NumberWizardv4.dll.manifest
+E:\Projects\C Sharp Training\NumberWizardv4\NumberWizardv4\bin\Release\netcoreapp3.1\NumberWizardv4.application
+E:\Projects\C Sharp Training\NumberWizardv4\NumberWizardv4\obj\Release\netcoreapp3.1\NumberWizardv4.dll.manifest
+E:\Projects\C Sharp Training\NumberWizardv4\NumberWizardv4\obj\Release\netcoreapp3.1\NumberWizardv4.application

@@ -1,0 +1,5 @@
+E:\Projects\C Sharp Training\NumberWizardv4\Publish\NumberWizardv4.exe
+E:\Projects\C Sharp Training\NumberWizardv4\Publish\NumberWizardv4.dll
+E:\Projects\C Sharp Training\NumberWizardv4\Publish\NumberWizardv4.deps.json
+E:\Projects\C Sharp Training\NumberWizardv4\Publish\NumberWizardv4.runtimeconfig.json
+E:\Projects\C Sharp Training\NumberWizardv4\Publish\NumberWizardv4.pdb
